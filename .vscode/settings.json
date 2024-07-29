@@ -1,3 +1,9 @@
 {
-    "solidity.compileUsingRemoteVersion": "v0.8.24+commit.e11b9ed9"
+    "solidity.remappings": [
+        "eth-gas-reporter/=node_modules/eth-gas-reporter/",
+        "forge-std/=lib/forge-std/src/",
+        "hardhat/=node_modules/hardhat/",
+        "@openzeppelin/=node_modules/@openzeppelin/"
+    ],
+    "solidity.compileUsingRemoteVersion": "v0.8.26+commit.8a97fa7a",
 }

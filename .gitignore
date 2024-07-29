@@ -35,3 +35,4 @@ ignition/deployments/chain-31337
 /out
 
 .yarnrc.yml
+.secret
